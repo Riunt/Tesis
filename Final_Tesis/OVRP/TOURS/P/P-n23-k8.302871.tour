@@ -1,0 +1,38 @@
+NAME : P-n23-k8.302871.tour
+COMMENT : Length = 302871
+COMMENT : Found by LKH [Keld Helsgaun] Sun Dec 17 22:32:16 2017
+TYPE : TOUR
+DIMENSION : 30
+TOUR_SECTION
+1
+21
+8
+23
+25
+22
+17
+5
+28
+14
+9
+20
+26
+11
+13
+16
+12
+24
+6
+18
+30
+2
+4
+19
+27
+7
+15
+29
+3
+10
+-1
+EOF

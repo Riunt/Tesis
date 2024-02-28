@@ -1,0 +1,51 @@
+NAME : A-n39-k5.549686.tour
+COMMENT : Length = 549686
+COMMENT : Found by LKH [Keld Helsgaun] Sun Dec 17 18:37:11 2017
+TYPE : TOUR
+DIMENSION : 43
+TOUR_SECTION
+1
+15
+5
+19
+10
+13
+42
+2
+24
+21
+30
+6
+17
+8
+4
+23
+41
+22
+31
+14
+29
+7
+37
+28
+40
+9
+12
+18
+27
+35
+25
+36
+38
+43
+20
+26
+34
+32
+39
+16
+11
+33
+3
+-1
+EOF

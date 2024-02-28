@@ -1,0 +1,52 @@
+NAME : P-n40-k5.vrp.349553.tour
+COMMENT : Length = 349553
+COMMENT : Found by LKH [Keld Helsgaun] Sun Dec 17 22:32:24 2017
+TYPE : TOUR
+DIMENSION : 44
+TOUR_SECTION
+1
+19
+5
+18
+38
+16
+34
+11
+40
+41
+13
+6
+39
+10
+31
+35
+22
+44
+28
+7
+15
+26
+14
+20
+43
+33
+2
+23
+29
+32
+9
+27
+8
+24
+25
+42
+12
+17
+3
+30
+21
+4
+36
+37
+-1
+EOF

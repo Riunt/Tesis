@@ -1,0 +1,57 @@
+NAME : B-n45-k5.488065.tour
+COMMENT : Length = 488065
+COMMENT : Found by LKH [Keld Helsgaun] Sun Dec 17 19:08:27 2017
+TYPE : TOUR
+DIMENSION : 49
+TOUR_SECTION
+1
+44
+5
+17
+30
+12
+26
+27
+20
+34
+49
+6
+42
+23
+9
+22
+13
+7
+41
+43
+29
+14
+48
+2
+10
+38
+33
+16
+3
+46
+31
+24
+37
+19
+45
+15
+28
+35
+8
+47
+40
+18
+11
+4
+32
+39
+21
+36
+25
+-1
+EOF
